@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootMicoserviceGateway
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: David
+Implementation-Vendor-Id: SpringBootMicoserviceGateway
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootMi
+ coserviceGateway/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
